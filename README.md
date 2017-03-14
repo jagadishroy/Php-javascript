@@ -1,2 +1,0 @@
-# WorkSample
-Few Work Samples 
